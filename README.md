@@ -73,11 +73,27 @@ Game engines can be used as well:
 
 ## Audio
 
+### GUI
+
+- [Audacity] - Open source, cross-platform audio recording and editing app.
+
+[Audacity]: https://www.audacityteam.org
+
+
+### CLI
+
+- [StyleTTS2] - Open source text-to-speech model.
+
+[StyleTTS2]: https://github.com/yl4579/StyleTTS2
+
+
 ### SaaS
 
 - [ElevenLabs] - Generative Voice AI.
+- [OpenAI TTS] - API to generate speech from text.
 
 [ElevenLabs]: https://elevenlabs.io
+[OpenAI TTS]: https://platform.openai.com/docs/guides/text-to-speech
 
 
 ## Video Editing
