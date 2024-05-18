@@ -15,10 +15,12 @@ I use this knowledge to produce videos for
   - [SaaS](#saas)
 - [Animations](#animations)
 - [Audio](#audio)
-  - [SaaS](#saas-1)
-- [Video Editing](#video-editing)
   - [GUI](#gui)
   - [CLI](#cli)
+  - [SaaS](#saas-1)
+- [Video Editing](#video-editing)
+  - [GUI](#gui-1)
+  - [CLI](#cli-1)
   - [SaaS](#saas-2)
 - [YouTube Channels](#youtube-channels)
 
@@ -66,7 +68,7 @@ I use this knowledge to produce videos for
 
 Game engines can be used as well:
 
-- [Godot] - Creating moview with Godot's offline renderer.
+- [Godot] - Creating movies with Godot's offline renderer.
 
 [Godot]: https://docs.godotengine.org/en/stable/tutorials/animation/creating_movies.html
 
@@ -110,7 +112,7 @@ Game engines can be used as well:
 
 [Audapolis]: https://github.com/bugbakery/audapolis
 [Blender for Video Editing]: https://www.blender.org/features/video-editing/
-[KDENlive]: https://kdenlive.org
+[KDENlive]: https://kdenlive.org/en/
 [Olive]: https://github.com/olive-editor/olive
 [Recut]: https://getrecut.com/
 [Remotion]: https://www.remotion.dev
@@ -163,9 +165,9 @@ Game engines can be used as well:
 [Animaker]: https://www.animaker.com
 [Animoto]: https://animoto.com
 [Biteable]: https://biteable.com
-[Captions]: https://captions.ai
+[Captions]: https://www.captions.ai/
 [Descript]: https://www.descript.com
-[Diffusion Studio]: https://www.diffusion.studio
+[Diffusion Studio]: https://diffusion.studio/
 [InVideo]: https://invideo.io
 [Lumen5]: https://lumen5.com
 [Magisto]: https://www.magisto.com
