@@ -2,8 +2,9 @@
 
 A curated list of software, services, and resources to create videos.
 
-I use this knowledge to produce videos for
-[my YouTube channel](https://www.youtube.com/@ad-si).
+> [!TIP]
+> I use this knowledge to produce videos for
+> [my YouTube channel](https://www.youtube.com/@ad-si).
 
 ---
 
@@ -68,8 +69,10 @@ I use this knowledge to produce videos for
 
 Game engines can be used as well:
 
+- [Defold] - Supports recording the game frame-buffer to a file.
 - [Godot] - Creating movies with Godot's offline renderer.
 
+[Defold]: https://defold.com/ref/stable/sys/#start_record
 [Godot]: https://docs.godotengine.org/en/stable/tutorials/animation/creating_movies.html
 
 
@@ -154,6 +157,7 @@ Game engines can be used as well:
 - [Lumen5] - Video creation platform.
 - [Moovly] - AI-powered video creation.
 - [Renderforest] - All design tools in one place.
+- [Rive] - Create animations for any platform. (Supports video export.)
 - [Super Simple Teleprompter] - Web-based teleprompter to deliver your lines.
 - [Veed] - Full featured video editor.
 - [Viddyoze] - Video templates marketplace.
@@ -173,6 +177,7 @@ Game engines can be used as well:
 [Magisto]: https://www.magisto.com
 [Moovly]: https://www.moovly.com
 [Renderforest]: https://www.renderforest.com
+[Rive]: https://help.rive.app/editor/exporting#exporting-video-cloud-render
 [Super Simple Teleprompter]: https://getrecut.com/teleprompter/
 [Shakr]: https://www.shakr.com
 [Veed]: https://www.veed.io
