@@ -58,6 +58,7 @@ A curated list of software, services, and resources to create videos.
 - [Manim] - Python library for creating mathematical animations.
 - [Motion Canvas] - Create animated videos using the Canvas API.
 - [Reanimate] - Declarative animation library for SVG documents.
+- [Spine] - Tooling for 2D animations in games.
 - [Theater.js] - Animation library for the web.
 
 [Babylon.js]: https://www.babylonjs.com
@@ -65,15 +66,28 @@ A curated list of software, services, and resources to create videos.
 [Manim]: https://www.manim.community
 [Motion Canvas]: https://motioncanvas.io
 [Reanimate]: https://reanimate.github.io
+[Spine]: https://esotericsoftware.com/spine-in-depth
 [Theater.js]: https://www.theatrejs.com
 
 Game engines can be used as well:
 
+- [Bevy Image Export] - Bevy plugin for rendering image sequences
 - [Defold] - Supports recording the game frame-buffer to a file.
+- [Fyrox] - Save the contents of the texture after each `engine.render` call.
 - [Godot] - Creating movies with Godot's offline renderer.
+  - [Phantom Camera]
+  - [Little Camera Preview]
+  - [Anima]
+- [WickedEngine] - Write C++ using FFmpeg to encode image to video file.
 
+[Anima]: https://github.com/ceceppa/anima
+[Bevy Image Export]: https://github.com/paulkre/bevy_image_export
 [Defold]: https://defold.com/ref/stable/sys/#start_record
+[Fyrox]: https://github.com/FyroxEngine/Fyrox/issues/312
 [Godot]: https://docs.godotengine.org/en/stable/tutorials/animation/creating_movies.html
+[Little Camera Preview]: https://github.com/anthonyec/godot_little_camera_preview
+[Phantom Camera]: https://github.com/ramokz/phantom-camera
+[WickedEngine]: https://github.com/turanszkij/WickedEngine/issues/845
 
 
 ## Audio
@@ -107,6 +121,7 @@ Game engines can be used as well:
 
 - [Audapolis] - Editor for spoken-word audio with automatic transcription.
 - [Blender for Video Editing] - Blender's built-in video sequencer.
+- [GoZen] - Minimalist Video Editor implemented in [Godot].
 - [KDENlive] - Open-source video editor.
 - [Olive] - Free open-source non-linear video editor.
 - [Recut] - Desktop app to automatically remove silence.
@@ -115,6 +130,7 @@ Game engines can be used as well:
 
 [Audapolis]: https://github.com/bugbakery/audapolis
 [Blender for Video Editing]: https://www.blender.org/features/video-editing/
+[GoZen]: https://github.com/VoylinsGamedevJourney/GoZen
 [KDENlive]: https://kdenlive.org/en/
 [Olive]: https://github.com/olive-editor/olive
 [Recut]: https://getrecut.com/
@@ -131,6 +147,7 @@ Game engines can be used as well:
 - [Jumpcutter] - Automatically edits videos.
 - [LosslessCut] - The swiss army knife of lossless video/audio editing
 - [MoviePy] - Python library for video editing.
+- [Revideo] - Open source framework for programmatic video editing.
 - [RobustVideoMatting] - Robust video matting in PyTorch.
 
 [Auto-Editor]: https://github.com/WyattBlue/auto-editor
@@ -140,6 +157,7 @@ Game engines can be used as well:
 [Jumpcutter]: https://github.com/carykh/jumpcutter
 [LosslessCut]: https://github.com/mifi/lossless-cut
 [MoviePy]: https://github.com/Zulko/moviepy
+[Revideo]: https://github.com/redotvideo/revideo
 [RobustVideoMatting]: https://github.com/PeterL1n/RobustVideoMatting
 
 
@@ -153,11 +171,14 @@ Game engines can be used as well:
 - [Descript] - Write, record, transcribe, edit, collaborate,
     and share videos & podcasts.
 - [Diffusion Studio] - AI powered Text-To-Video Editor.
+- [Eggnog] - Create AI videos with consistent characters
 - [InVideo] - Create videos with text prompts.
 - [Lumen5] - Video creation platform.
 - [Moovly] - AI-powered video creation.
+- [Pika] - AI-powered video generation.
 - [Renderforest] - All design tools in one place.
 - [Rive] - Create animations for any platform. (Supports video export.)
+- [Shortbread] - Create comics with AI.
 - [Super Simple Teleprompter] - Web-based teleprompter to deliver your lines.
 - [Veed] - Full featured video editor.
 - [Viddyoze] - Video templates marketplace.
@@ -172,14 +193,17 @@ Game engines can be used as well:
 [Captions]: https://www.captions.ai/
 [Descript]: https://www.descript.com
 [Diffusion Studio]: https://diffusion.studio/
+[Eggnog]: https://www.eggnog.ai/
 [InVideo]: https://invideo.io
 [Lumen5]: https://lumen5.com
 [Magisto]: https://www.magisto.com
 [Moovly]: https://www.moovly.com
+[Pika]: https://pika.art/try
 [Renderforest]: https://www.renderforest.com
 [Rive]: https://help.rive.app/editor/exporting#exporting-video-cloud-render
-[Super Simple Teleprompter]: https://getrecut.com/teleprompter/
 [Shakr]: https://www.shakr.com
+[Shortbread]: https://shortbread.ai/
+[Super Simple Teleprompter]: https://getrecut.com/teleprompter/
 [Veed]: https://www.veed.io
 [Viddyoze]: https://viddyoze.com
 [Videobolt]: https://videobolt.net
