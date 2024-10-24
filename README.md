@@ -55,6 +55,7 @@ A curated list of software, services, and resources to create videos.
 
 - [Babylon.js] - 3D engine for the web.
 - [Blender for Story Art] - Blender's tools for making animations.
+- [Friction] - Motion graphics app for vector and raster animations.
 - [Manim] - Python library for creating mathematical animations.
 - [Motion Canvas] - Create animated videos using the Canvas API.
 - [Reanimate] - Declarative animation library for SVG documents.
@@ -63,6 +64,7 @@ A curated list of software, services, and resources to create videos.
 
 [Babylon.js]: https://www.babylonjs.com
 [Blender for Story Art]: https://www.blender.org/features/story-artist/
+[Friction]: https://friction.graphics/
 [Manim]: https://www.manim.community
 [Motion Canvas]: https://motioncanvas.io
 [Reanimate]: https://reanimate.github.io
