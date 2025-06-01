@@ -21,7 +21,7 @@ A curated list of software, services, and resources to create videos.
   - [SaaS](#saas-1)
 - [Video Editing](#video-editing)
   - [GUI](#gui-1)
-  - [CLI](#cli-1)
+  - [CLI / Code](#cli--code)
   - [SaaS](#saas-2)
 - [YouTube Channels](#youtube-channels)
 
@@ -46,27 +46,41 @@ A curated list of software, services, and resources to create videos.
 
 ### SaaS
 
-[Boords] - Storyboarding tool to plan creative projects.
+- [Blooper] - Pre-production assistant and management.
+- [Boords] - Storyboarding tool to plan creative projects.
 
+[Bloober]: https://blooper.ai
 [Boords]: https://boords.com
 
 
 ## Animations
 
+- [Animo] - Make animated videos from text using AI.
 - [Babylon.js] - 3D engine for the web.
+- [Bauble] - Playground for making 3D art with lisp and math.
 - [Blender for Story Art] - Blender's tools for making animations.
+- [Clipnote Studio] - Basic animation software.
+- [CodeWorld] - Webapp for creating drawings and animations with code.
 - [Friction] - Motion graphics app for vector and raster animations.
 - [Manim] - Python library for creating mathematical animations.
 - [Motion Canvas] - Create animated videos using the Canvas API.
+- [Nannou] - Creative coding framework for Rust.
+- [p5.js]- Create 2D and 3D animations using JavaScript.
 - [Reanimate] - Declarative animation library for SVG documents.
 - [Spine] - Tooling for 2D animations in games.
 - [Theater.js] - Animation library for the web.
 
+[Animo]: https://animo.video/
 [Babylon.js]: https://www.babylonjs.com
+[Bauble]: https://bauble.studio
 [Blender for Story Art]: https://www.blender.org/features/story-artist/
+[Clipnote Studio]: https://calcium-chan.itch.io/clipnote
+[CodeWorld]: https://code.world/
 [Friction]: https://friction.graphics/
 [Manim]: https://www.manim.community
 [Motion Canvas]: https://motioncanvas.io
+[Nannou]: https://github.com/nannou-org/nannou/blob/master/examples/draw/draw_capture.rs
+[p5.js]: https://github.com/mrchantey/p5.createLoop
 [Reanimate]: https://reanimate.github.io
 [Spine]: https://esotericsoftware.com/spine-in-depth
 [Theater.js]: https://www.theatrejs.com
@@ -74,20 +88,26 @@ A curated list of software, services, and resources to create videos.
 Game engines can be used as well:
 
 - [Bevy Image Export] - Bevy plugin for rendering image sequences
+- [Cocos] - Open-source, cross-platform game engine.
 - [Defold] - Supports recording the game frame-buffer to a file.
 - [Fyrox] - Save the contents of the texture after each `engine.render` call.
 - [Godot] - Creating movies with Godot's offline renderer.
   - [Phantom Camera]
   - [Little Camera Preview]
   - [Anima]
+  - [Movie Maker Timestamp]
+- [LOVR] - Save the contents of the texture on each render call.
 - [WickedEngine] - Write C++ using FFmpeg to encode image to video file.
 
 [Anima]: https://github.com/ceceppa/anima
 [Bevy Image Export]: https://github.com/paulkre/bevy_image_export
+[Cocos]: https://github.com/cocos/cocos-engine
 [Defold]: https://defold.com/ref/stable/sys/#start_record
 [Fyrox]: https://github.com/FyroxEngine/Fyrox/issues/312
 [Godot]: https://docs.godotengine.org/en/stable/tutorials/animation/creating_movies.html
 [Little Camera Preview]: https://github.com/anthonyec/godot_little_camera_preview
+[LOVR]: https://github.com/bjornbytes/lovr/issues/787
+[Movie Maker Timestamp]: https://gitlab.com/timkrief/movie_maker_timestamp
 [Phantom Camera]: https://github.com/ramokz/phantom-camera
 [WickedEngine]: https://github.com/turanszkij/WickedEngine/issues/845
 
@@ -140,27 +160,31 @@ Game engines can be used as well:
 [ShotGPT]: https://shortgpt.ai
 
 
-### CLI
+### CLI / Code
 
 - [Auto-Editor] - Automatically edit video & audio by analyzing the content.
 - [Cut the Crap] - Automated video editing for streamers.
 - [Editly] - Declarative command line video editing & API.
 - [Etro] - Typescript video-editing framework for the browser.
+- [Graphics livecoding in Common Lisp]
 - [Jumpcutter] - Automatically edits videos.
 - [LosslessCut] - The swiss army knife of lossless video/audio editing
 - [MoviePy] - Python library for video editing.
 - [Revideo] - Open source framework for programmatic video editing.
 - [RobustVideoMatting] - Robust video matting in PyTorch.
+- [VapourSynth] - App, plugin, and library for video manipulation.
 
 [Auto-Editor]: https://github.com/WyattBlue/auto-editor
 [Cut the Crap]: https://github.com/jappeace/cut-the-crap
 [Editly]: https://github.com/mifi/editly
 [Etro]: https://github.com/etro-js/etro
+[Graphics livecoding in Common Lisp]: https://kevingal.com/blog/cl-livecoding.html
 [Jumpcutter]: https://github.com/carykh/jumpcutter
 [LosslessCut]: https://github.com/mifi/lossless-cut
 [MoviePy]: https://github.com/Zulko/moviepy
 [Revideo]: https://github.com/redotvideo/revideo
 [RobustVideoMatting]: https://github.com/PeterL1n/RobustVideoMatting
+[VapourSynth]: https://www.vapoursynth.com/
 
 
 ### SaaS
@@ -200,9 +224,9 @@ Game engines can be used as well:
 [Lumen5]: https://lumen5.com
 [Magisto]: https://www.magisto.com
 [Moovly]: https://www.moovly.com
-[Pika]: https://pika.art/try
+[Pika]: https://pika.art/login
 [Renderforest]: https://www.renderforest.com
-[Rive]: https://help.rive.app/editor/exporting#exporting-video-cloud-render
+[Rive]: https://rive.app/docs/editor/exporting/exporting-for-video-and-static-design
 [Shakr]: https://www.shakr.com
 [Shortbread]: https://shortbread.ai/
 [Super Simple Teleprompter]: https://getrecut.com/teleprompter/

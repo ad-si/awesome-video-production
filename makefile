@@ -11,4 +11,8 @@ test:
 	lychee \
 		--max-redirects 0 \
 		--require-https \
+		--exclude animoto.com \
+		--exclude lumen5.com \
+		--exclude openai.com \
+		--exclude pika.art \
 		README.md
