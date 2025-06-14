@@ -27,7 +27,6 @@ A curated list of software, services, and resources to create videos.
 
 <!-- tocstop -->
 
-
 ## Image Editing
 
 - [rembg] - Tool to remove images background.
@@ -143,6 +142,7 @@ Game engines can be used as well:
 
 - [Audapolis] - Editor for spoken-word audio with automatic transcription.
 - [Blender for Video Editing] - Blender's built-in video sequencer.
+- [Flowblade] - Multitrack non-linear video editor for Linux.
 - [GoZen] - Minimalist Video Editor implemented in [Godot].
 - [KDENlive] - Open-source video editor.
 - [Olive] - Free open-source non-linear video editor.
@@ -152,6 +152,7 @@ Game engines can be used as well:
 
 [Audapolis]: https://github.com/bugbakery/audapolis
 [Blender for Video Editing]: https://www.blender.org/features/video-editing/
+[Flowblade]: https://github.com/jliljebl/flowblade
 [GoZen]: https://github.com/VoylinsGamedevJourney/GoZen
 [KDENlive]: https://kdenlive.org/en/
 [Olive]: https://github.com/olive-editor/olive
