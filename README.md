@@ -54,12 +54,14 @@ A curated list of software, services, and resources to create videos.
 
 ## Animations
 
+- [Anime.js] - JavaScript animation engine.
 - [Animo] - Make animated videos from text using AI.
 - [Babylon.js] - 3D engine for the web.
 - [Bauble] - Playground for making 3D art with lisp and math.
 - [Blender for Story Art] - Blender's tools for making animations.
 - [Clipnote Studio] - Basic animation software.
 - [CodeWorld] - Webapp for creating drawings and animations with code.
+- [Expressive Animator] - SVG animation software.
 - [Friction] - Motion graphics app for vector and raster animations.
 - [Manim] - Python library for creating mathematical animations.
 - [Motion Canvas] - Create animated videos using the Canvas API.
@@ -69,12 +71,14 @@ A curated list of software, services, and resources to create videos.
 - [Spine] - Tooling for 2D animations in games.
 - [Theater.js] - Animation library for the web.
 
+[Anime.js]: https://soshace.com/anime-js-to-mp4-and-gif-with-node-js-and-ffmpeg/
 [Animo]: https://animo.video/
 [Babylon.js]: https://www.babylonjs.com
 [Bauble]: https://bauble.studio
 [Blender for Story Art]: https://www.blender.org/features/story-artist/
 [Clipnote Studio]: https://calcium-chan.itch.io/clipnote
 [CodeWorld]: https://code.world/
+[Expressive Animator]: https://expressive.app/expressive-animator/
 [Friction]: https://friction.graphics/
 [Manim]: https://www.manim.community
 [Motion Canvas]: https://motioncanvas.io
