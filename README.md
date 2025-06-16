@@ -146,6 +146,7 @@ Game engines can be used as well:
 
 - [Audapolis] - Editor for spoken-word audio with automatic transcription.
 - [Blender for Video Editing] - Blender's built-in video sequencer.
+- [ClipJS] - Edit videos from your PC or phone.
 - [Flowblade] - Multitrack non-linear video editor for Linux.
 - [GoZen] - Minimalist Video Editor implemented in [Godot].
 - [KDENlive] - Open-source video editor.
@@ -156,6 +157,7 @@ Game engines can be used as well:
 
 [Audapolis]: https://github.com/bugbakery/audapolis
 [Blender for Video Editing]: https://www.blender.org/features/video-editing/
+[ClipJS]: https://clipjs.vercel.app/
 [Flowblade]: https://github.com/jliljebl/flowblade
 [GoZen]: https://github.com/VoylinsGamedevJourney/GoZen
 [KDENlive]: https://kdenlive.org/en/
