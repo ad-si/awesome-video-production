@@ -10,10 +10,11 @@ A curated list of software, services, and resources to create videos.
 
 <!-- toc -->
 
-- [Image Editing](#image-editing)
+- [Screenwriting](#screenwriting)
 - [Storyboard / Animatic](#storyboard--animatic)
   - [Apps](#apps)
   - [SaaS](#saas)
+- [Image Editing](#image-editing)
 - [Animations](#animations)
 - [Audio](#audio)
   - [GUI](#gui)
@@ -24,14 +25,19 @@ A curated list of software, services, and resources to create videos.
   - [CLI / Code](#cli--code)
   - [SaaS](#saas-2)
 - [YouTube Channels](#youtube-channels)
+- [Research](#research)
 
 <!-- tocstop -->
 
-## Image Editing
+## Screenwriting
 
-- [rembg] - Tool to remove images background.
+- [Fountain] - Plain text markup language for screenwriting.
+- [Plotdot] - AI-Powered screenwriting assistant.
+- [Scriptio] - Minimalist screenwriting tool.
 
-[rembg]: https://github.com/danielgatis/rembg
+[Fountain]: https://fountain.io
+[Plotdot]: https://plotdot.ai/en
+[Scriptio]: https://github.com/Lycoon/scriptio
 
 
 ## Storyboard / Animatic
@@ -52,6 +58,13 @@ A curated list of software, services, and resources to create videos.
 [Boords]: https://boords.com
 
 
+## Image Editing
+
+- [rembg] - Tool to remove image background.
+
+[rembg]: https://github.com/danielgatis/rembg
+
+
 ## Animations
 
 - [Anime.js] - JavaScript animation engine.
@@ -67,6 +80,7 @@ A curated list of software, services, and resources to create videos.
 - [Motion Canvas] - Create animated videos using the Canvas API.
 - [Nannou] - Creative coding framework for Rust.
 - [p5.js]- Create 2D and 3D animations using JavaScript.
+- [Pencil2D] - Tool to make 2D hand-drawn animations.
 - [Reanimate] - Declarative animation library for SVG documents.
 - [Spine] - Tooling for 2D animations in games.
 - [Theater.js] - Animation library for the web.
@@ -84,6 +98,7 @@ A curated list of software, services, and resources to create videos.
 [Motion Canvas]: https://motioncanvas.io
 [Nannou]: https://github.com/nannou-org/nannou/blob/master/examples/draw/draw_capture.rs
 [p5.js]: https://github.com/mrchantey/p5.createLoop
+[Pencil2D]: https://www.pencil2d.org
 [Reanimate]: https://reanimate.github.io
 [Spine]: https://esotericsoftware.com/spine-in-depth
 [Theater.js]: https://www.theatrejs.com
@@ -146,6 +161,7 @@ Game engines can be used as well:
 
 - [Audapolis] - Editor for spoken-word audio with automatic transcription.
 - [Blender for Video Editing] - Blender's built-in video sequencer.
+- [Bons-AI] - Modular automation stack for faceless video creation.
 - [ClipJS] - Edit videos from your PC or phone.
 - [Flowblade] - Multitrack non-linear video editor for Linux.
 - [GoZen] - Minimalist Video Editor implemented in [Godot].
@@ -157,6 +173,7 @@ Game engines can be used as well:
 
 [Audapolis]: https://github.com/bugbakery/audapolis
 [Blender for Video Editing]: https://www.blender.org/features/video-editing/
+[Bons-AI]: https://heissdominik.gumroad.com/l/bonsai-starter-edition
 [ClipJS]: https://clipjs.vercel.app/
 [Flowblade]: https://github.com/jliljebl/flowblade
 [GoZen]: https://github.com/VoylinsGamedevJourney/GoZen
@@ -253,3 +270,10 @@ Game engines can be used as well:
 [Reanimated Science]: https://www.youtube.com/channel/UCbZujyI7i6JbI-I0shPvDgg
 [TheHiistoricAI]: https://www.youtube.com/@TheHiistoricAI
 [@RayVenturaHQ]: https://twitter.com/RayVenturaHQ
+
+
+## Research
+
+- [FilmAgent] - Multi-agent framework for end-to-end film automation in virtual 3D spaces.
+
+[FilmAgent]: https://filmagent.github.io/
