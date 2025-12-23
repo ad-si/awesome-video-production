@@ -222,6 +222,7 @@ Game engines can be used as well:
     and share videos & podcasts.
 - [Diffusion Studio] - AI powered Text-To-Video Editor.
 - [Eggnog] - Create AI videos with consistent characters
+- [FastlyConvert] - Free online video converter and compressor.
 - [InVideo] - Create videos with text prompts.
 - [Lumen5] - Video creation platform.
 - [Moovly] - AI-powered video creation.
@@ -244,6 +245,7 @@ Game engines can be used as well:
 [Descript]: https://www.descript.com
 [Diffusion Studio]: https://diffusion.studio/
 [Eggnog]: https://www.eggnog.ai/
+[FastlyConvert]: https://www.fastlyconvert.com
 [InVideo]: https://invideo.io
 [Lumen5]: https://lumen5.com
 [Magisto]: https://www.magisto.com
