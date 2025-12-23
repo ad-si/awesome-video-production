@@ -221,6 +221,8 @@ Game engines can be used as well:
 - [Descript] - Write, record, transcribe, edit, collaborate,
     and share videos & podcasts.
 - [Diffusion Studio] - AI powered Text-To-Video Editor.
+- [FastlyConvert] - Free online video converter and compressor.
+    Supports MKV to MP4, video compression, video to GIF.
 - [Eggnog] - Create AI videos with consistent characters
 - [InVideo] - Create videos with text prompts.
 - [Lumen5] - Video creation platform.
@@ -242,6 +244,7 @@ Game engines can be used as well:
 [Biteable]: https://biteable.com
 [Captions]: https://www.captions.ai/
 [Descript]: https://www.descript.com
+[FastlyConvert]: https://www.fastlyconvert.com
 [Diffusion Studio]: https://diffusion.studio/
 [Eggnog]: https://www.eggnog.ai/
 [InVideo]: https://invideo.io
