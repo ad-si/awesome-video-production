@@ -14,6 +14,7 @@ A curated list of software, services, and resources to create videos.
 - [Storyboard / Animatic](#storyboard--animatic)
   - [Apps](#apps)
   - [SaaS](#saas)
+- [Camera / On-Set Tools](#camera--on-set-tools)
 - [Image Editing](#image-editing)
 - [Animations](#animations)
 - [Audio](#audio)
@@ -56,6 +57,13 @@ A curated list of software, services, and resources to create videos.
 
 [Bloober]: https://blooper.ai
 [Boords]: https://boords.com
+
+
+## Camera / On-Set Tools
+
+- [FrameCoach] - Real-time camera coaching app for filmmakers — coaches you through camera settings, composition, and shot choices on set.
+
+[FrameCoach]: https://framecoach.io
 
 
 ## Image Editing
