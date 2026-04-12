@@ -226,6 +226,7 @@ Game engines can be used as well:
 - [Animoto] - Drag-and-drop video maker.
 - [Biteable] - Online video maker.
 - [Captions] - AI-powered creative studio.
+- [Video Background Remover] - Dedicated tool for removing video backgrounds without a green screen.
 - [Descript] - Write, record, transcribe, edit, collaborate,
     and share videos & podcasts.
 - [Diffusion Studio] - AI powered Text-To-Video Editor.
