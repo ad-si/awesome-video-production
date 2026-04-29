@@ -61,7 +61,7 @@ A curated list of software, services, and resources to create videos.
 
 ## Camera / On-Set Tools
 
-- [FrameCoach] - Real-time camera coaching app for filmmakers — coaches you through camera settings, composition, and shot choices on set.
+- [FrameCoach] - Real-time camera coaching app for filmmakers â coaches you through camera settings, composition, and shot choices on set.
 
 [FrameCoach]: https://framecoach.io
 
@@ -289,3 +289,6 @@ Game engines can be used as well:
 - [FilmAgent] - Multi-agent framework for end-to-end film automation in virtual 3D spaces.
 
 [FilmAgent]: https://filmagent.github.io/
+
+
+* [Remove audio from video](https://remove-audio.com) - Free, browser-based audio remover. Local processing via WebAssembly and FFmpeg.wasm. No uploads, no sign-up, no watermarks. Batch up to 20 clips.
