@@ -289,3 +289,6 @@ Game engines can be used as well:
 - [FilmAgent] - Multi-agent framework for end-to-end film automation in virtual 3D spaces.
 
 [FilmAgent]: https://filmagent.github.io/
+
+
+* [Remove audio from video](https://remove-audio.com) - Free, browser-based audio remover. Local processing via WebAssembly. No signup, no watermarks. Batch up to 20 clips.
