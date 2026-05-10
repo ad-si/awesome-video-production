@@ -158,9 +158,11 @@ Game engines can be used as well:
 
 - [ElevenLabs] - Generative Voice AI.
 - [OpenAI TTS] - API to generate speech from text.
+- [Remove Audio] - Browser-based tool that strips audio from any video. Local processing via FFmpeg.wasm.
 
 [ElevenLabs]: https://elevenlabs.io
 [OpenAI TTS]: https://platform.openai.com/docs/guides/text-to-speech
+[Remove Audio]: https://remove-audio.com
 
 
 ## Video Editing
