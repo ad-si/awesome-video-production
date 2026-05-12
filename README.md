@@ -231,6 +231,7 @@ Game engines can be used as well:
 - [Diffusion Studio] - AI powered Text-To-Video Editor.
 - [Eggnog] - Create AI videos with consistent characters
 - [Eript] - Privacy-First Teleprompter for Creators.
+- [FirstCut Studio] - AI-powered highlight reel creator for action sports and travel footage.
 - [FastlyConvert] - Free online video converter and compressor.
 - [InVideo] - Create videos with text prompts.
 - [Lumen5] - Video creation platform.
@@ -255,6 +256,7 @@ Game engines can be used as well:
 [Diffusion Studio]: https://diffusion.studio/
 [Eggnog]: https://www.eggnog.ai/
 [Eript]: https://www.eript.com/
+[FirstCut Studio]: https://firstcutstudio.xyz
 [FastlyConvert]: https://www.fastlyconvert.com
 [InVideo]: https://invideo.io
 [Lumen5]: https://lumen5.com
