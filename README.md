@@ -291,5 +291,6 @@ Game engines can be used as well:
 ## Research
 
 - [FilmAgent] - Multi-agent framework for end-to-end film automation in virtual 3D spaces.
+- [BeatSync PRO](https://beatsyncpro.ai) - 40,000+ royalty-free AI-generated music video clips organized by BPM and genre. Beat-sync automation for music producers and content creators. Freemium.
 
 [FilmAgent]: https://filmagent.github.io/
