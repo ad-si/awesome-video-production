@@ -238,6 +238,7 @@ Game engines can be used as well:
 
 - [Auto-Editor] - Automatically edit video & audio by analyzing the content.
 - [Cut the Crap] - Automated video editing for streamers.
+- [Diffusion Studio Core] - Browser-based video compositing engine powered by WebCodecs.
 - [Editly] - Declarative command line video editing & API.
 - [Etro] - Typescript video-editing framework for the browser.
 - [Graphics livecoding in Common Lisp]
@@ -247,9 +248,11 @@ Game engines can be used as well:
 - [Revideo] - Open source framework for programmatic video editing.
 - [RobustVideoMatting] - Robust video matting in PyTorch.
 - [VapourSynth] - App, plugin, and library for video manipulation.
+- [VidStab] - Video stabilization library.
 
 [Auto-Editor]: https://github.com/WyattBlue/auto-editor
 [Cut the Crap]: https://github.com/jappeace/cut-the-crap
+[Diffusion Studio Core]: https://github.com/diffusionstudio/core
 [Editly]: https://github.com/mifi/editly
 [Etro]: https://github.com/etro-js/etro
 [Graphics livecoding in Common Lisp]: https://kevingal.com/blog/cl-livecoding.html
@@ -259,6 +262,7 @@ Game engines can be used as well:
 [Revideo]: https://github.com/redotvideo/revideo
 [RobustVideoMatting]: https://github.com/PeterL1n/RobustVideoMatting
 [VapourSynth]: https://www.vapoursynth.com/
+[VidStab]: https://github.com/georgmartius/vid.stab
 
 
 ### SaaS
