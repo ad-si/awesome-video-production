@@ -66,8 +66,10 @@ A curated list of software, services, and resources to create videos.
 ## Camera / On-Set Tools
 
 - [FrameCoach] - Real-time camera coaching app for filmmakers — coaches you through camera settings, composition, and shot choices on set.
+- [MacroGraph] - Visual programming tool to automate streaming workflows (Twitch, OBS, MIDI).
 
 [FrameCoach]: https://framecoach.io
+[MacroGraph]: https://github.com/Brendonovich/MacroGraph
 
 
 ## Image Editing
