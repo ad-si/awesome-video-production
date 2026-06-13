@@ -250,6 +250,7 @@ Game engines can be used as well:
 - [InVideo] - Create videos with text prompts.
 - [Lumen5] - Video creation platform.
 - [Moovly] - AI-powered video creation.
+- [OpenCut] - Open-source video editor for web, desktop, and mobile.
 - [Pika] - AI-powered video generation.
 - [Renderforest] - All design tools in one place.
 - [Rive] - Create animations for any platform. (Supports video export.)
@@ -276,6 +277,7 @@ Game engines can be used as well:
 [Lumen5]: https://lumen5.com
 [Magisto]: https://www.magisto.com
 [Moovly]: https://www.moovly.com
+[OpenCut]: https://github.com/OpenCut-app/OpenCut
 [Pika]: https://pika.art/login
 [Renderforest]: https://www.renderforest.com
 [Rive]: https://rive.app/docs/editor/exporting/exporting-for-video-and-static-design
