@@ -86,14 +86,25 @@ A curated list of software, services, and resources to create videos.
 - [Babylon.js] - 3D engine for the web.
 - [Bauble] - Playground for making 3D art with lisp and math.
 - [Blender for Story Art] - Blender's tools for making animations.
+- [canvas-record] - Record canvas-based animations to video.
+- [Cavalry] - Free 2D animation and motion graphics software with procedural rigging.
+- [CCapture.js] - Library to capture canvas-based animations at a fixed framerate.
 - [Clipnote Studio] - Basic animation software.
 - [CodeWorld] - Webapp for creating drawings and animations with code.
+- [Excalidraw Claymate] - Create stop motion animations and slides based on Excalidraw.
 - [Expressive Animator] - SVG animation software.
 - [Flitter] - Functional programming language for describing 2D and 3D visuals.
+- [FragCoord] - WebGL2 shader editor to write, debug, and capture GLSL shaders to video.
 - [Friction] - Motion graphics app for vector and raster animations.
+- [Hydra] - Livecoding networked visual synthesizer for the browser.
+- [Immersa] - Web-based 3D presentation tool with animated transitions between slides.
 - [Manim] - Python library for creating mathematical animations.
+- [Manim Video Generator] - Generate Manim animations from natural language descriptions.
+- [mesh2motion] - Rig and animate 3D models in the browser.
 - [Motion Canvas] - Create animated videos using the Canvas API.
+- [MotionGfx] - Procedural motion graphics framework built on Bevy ECS.
 - [Nannou] - Creative coding framework for Rust.
+- [p5.capture] - Record p5.js sketches to various formats.
 - [p5.js] - Create 2D and 3D animations using JavaScript.
 - [Pencil2D] - Tool to make 2D hand-drawn animations.
 - [PixiEditor] - 2D graphics editor with frame-by-frame animations.
@@ -102,20 +113,32 @@ A curated list of software, services, and resources to create videos.
 - [Spine] - Tooling for 2D animations in games.
 - [Synfig] - Open-source 2D animation software.
 - [Theater.js] - Animation library for the web.
+- [TiXL] - Open-source software for visual effects and motion graphics for live performances and VJing.
 
 [Anime.js]: https://soshace.com/anime-js-to-mp4-and-gif-with-node-js-and-ffmpeg/
 [Animo]: https://animo.video/
 [Babylon.js]: https://www.babylonjs.com
 [Bauble]: https://bauble.studio
 [Blender for Story Art]: https://www.blender.org/features/story-artist/
+[canvas-record]: https://github.com/dmnsgn/canvas-record
+[Cavalry]: https://cavalry.scenegroup.co/
+[CCapture.js]: https://github.com/spite/ccapture.js
 [Clipnote Studio]: https://calcium-chan.itch.io/clipnote
 [CodeWorld]: https://code.world/
+[Excalidraw Claymate]: https://github.com/dai-shi/excalidraw-claymate
 [Expressive Animator]: https://expressive.app/expressive-animator/
 [Flitter]: https://flitter.readthedocs.io/en/latest/index.html
+[FragCoord]: https://fragcoord.xyz/
 [Friction]: https://friction.graphics/
+[Hydra]: https://hydra.ojack.xyz/
+[Immersa]: https://github.com/ertugrulcetin/immersa
 [Manim]: https://www.manim.community
+[Manim Video Generator]: https://github.com/rohitg00/manim-video-generator
+[mesh2motion]: https://mesh2motion.org/
 [Motion Canvas]: https://motioncanvas.io
+[MotionGfx]: https://github.com/voxell-tech/motiongfx
 [Nannou]: https://github.com/nannou-org/nannou/blob/master/examples/draw/draw_capture.rs
+[p5.capture]: https://github.com/tapioca24/p5.capture
 [p5.js]: https://github.com/mrchantey/p5.createLoop
 [Pencil2D]: https://www.pencil2d.org
 [PixiEditor]: https://pixieditor.net/docs/usage/animating/getting-started/
@@ -124,6 +147,7 @@ A curated list of software, services, and resources to create videos.
 [Spine]: https://esotericsoftware.com/spine-in-depth
 [Synfig]: https://www.synfig.org
 [Theater.js]: https://www.theatrejs.com
+[TiXL]: https://tixl.app/
 
 Game engines can be used as well:
 
