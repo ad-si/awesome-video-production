@@ -214,6 +214,7 @@ Game engines can be used as well:
 - [Flowblade] - Multitrack non-linear video editor for Linux.
 - [GoZen] - Minimalist Video Editor implemented in [Godot].
 - [KDENlive] - Open-source video editor.
+- [MediaEditor] - Lightweight, cross-platform, open-source non-linear editor.
 - [Olive] - Free open-source non-linear video editor.
 - [Recut] - Desktop app to automatically remove silence.
 - [Remotion] - Video editing in React.
@@ -226,6 +227,7 @@ Game engines can be used as well:
 [Flowblade]: https://github.com/jliljebl/flowblade
 [GoZen]: https://github.com/VoylinsGamedevJourney/GoZen
 [KDENlive]: https://kdenlive.org/en/
+[MediaEditor]: https://github.com/opencodewin/MediaEditor
 [Olive]: https://github.com/olive-editor/olive
 [Recut]: https://getrecut.com/
 [Remotion]: https://www.remotion.dev
