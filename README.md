@@ -56,9 +56,11 @@ A curated list of software, services, and resources to create videos.
 
 - [Blooper] - Pre-production assistant and management.
 - [Boords] - Storyboarding tool to plan creative projects.
+- [Gemini Storybook] - Create illustrated storybooks with AI.
 
 [Bloober]: https://blooper.ai
 [Boords]: https://boords.com
+[Gemini Storybook]: https://blog.google/products/gemini/storybooks/
 
 
 ## Camera / On-Set Tools
