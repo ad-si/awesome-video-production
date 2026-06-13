@@ -287,7 +287,9 @@ Game engines can be used as well:
 - [Renderforest] - All design tools in one place.
 - [Rive] - Create animations for any platform. (Supports video export.)
 - [Shortbread] - Create comics with AI.
+- [Skills.video] - AI video and image generation platform with a video skills learning hub.
 - [Super Simple Teleprompter] - Web-based teleprompter to deliver your lines.
+- [Sync] - AI lip-sync and dubbing for videos.
 - [Veed] - Full featured video editor.
 - [Viddyoze] - Video templates marketplace.
 - [Videobolt] - Video templates marketplace.
@@ -315,7 +317,9 @@ Game engines can be used as well:
 [Rive]: https://rive.app/docs/editor/exporting/exporting-for-video-and-static-design
 [Shakr]: https://www.shakr.com
 [Shortbread]: https://shortbread.ai/
+[Skills.video]: https://skills.video/
 [Super Simple Teleprompter]: https://getrecut.com/teleprompter/
+[Sync]: https://sync.so/
 [Veed]: https://www.veed.io
 [Viddyoze]: https://viddyoze.com
 [Videobolt]: https://videobolt.net
