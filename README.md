@@ -34,10 +34,12 @@ A curated list of software, services, and resources to create videos.
 
 - [Fountain] - Plain text markup language for screenwriting.
 - [Plotdot] - AI-Powered screenwriting assistant.
+- [Scriptation] - Mark up, annotate, and organize scripts.
 - [Scriptio] - Minimalist screenwriting tool.
 
 [Fountain]: https://fountain.io
 [Plotdot]: https://plotdot.ai/en
+[Scriptation]: https://scriptation.com
 [Scriptio]: https://github.com/Lycoon/scriptio
 
 
