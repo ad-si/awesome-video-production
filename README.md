@@ -87,14 +87,18 @@ A curated list of software, services, and resources to create videos.
 - [Clipnote Studio] - Basic animation software.
 - [CodeWorld] - Webapp for creating drawings and animations with code.
 - [Expressive Animator] - SVG animation software.
+- [Flitter] - Functional programming language for describing 2D and 3D visuals.
 - [Friction] - Motion graphics app for vector and raster animations.
 - [Manim] - Python library for creating mathematical animations.
 - [Motion Canvas] - Create animated videos using the Canvas API.
 - [Nannou] - Creative coding framework for Rust.
-- [p5.js]- Create 2D and 3D animations using JavaScript.
+- [p5.js] - Create 2D and 3D animations using JavaScript.
 - [Pencil2D] - Tool to make 2D hand-drawn animations.
+- [PixiEditor] - 2D graphics editor with frame-by-frame animations.
+- [Polygonjs] - Graph-based design and animation tool for the web.
 - [Reanimate] - Declarative animation library for SVG documents.
 - [Spine] - Tooling for 2D animations in games.
+- [Synfig] - Open-source 2D animation software.
 - [Theater.js] - Animation library for the web.
 
 [Anime.js]: https://soshace.com/anime-js-to-mp4-and-gif-with-node-js-and-ffmpeg/
@@ -105,14 +109,18 @@ A curated list of software, services, and resources to create videos.
 [Clipnote Studio]: https://calcium-chan.itch.io/clipnote
 [CodeWorld]: https://code.world/
 [Expressive Animator]: https://expressive.app/expressive-animator/
+[Flitter]: https://flitter.readthedocs.io/en/latest/index.html
 [Friction]: https://friction.graphics/
 [Manim]: https://www.manim.community
 [Motion Canvas]: https://motioncanvas.io
 [Nannou]: https://github.com/nannou-org/nannou/blob/master/examples/draw/draw_capture.rs
 [p5.js]: https://github.com/mrchantey/p5.createLoop
 [Pencil2D]: https://www.pencil2d.org
+[PixiEditor]: https://pixieditor.net/docs/usage/animating/getting-started/
+[Polygonjs]: https://polygonjs.com
 [Reanimate]: https://reanimate.github.io
 [Spine]: https://esotericsoftware.com/spine-in-depth
+[Synfig]: https://www.synfig.org
 [Theater.js]: https://www.theatrejs.com
 
 Game engines can be used as well:
