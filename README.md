@@ -341,5 +341,7 @@ Game engines can be used as well:
 ## Research
 
 - [FilmAgent] - Multi-agent framework for end-to-end film automation in virtual 3D spaces.
+- [Media & Entertainment Research Agent] - Python agent that researches the media and entertainment industry using live web data — box office, streaming viewership, content deals, and audience demographics — into a structured JSON briefing.
 
 [FilmAgent]: https://filmagent.github.io/
+[Media & Entertainment Research Agent]: https://superhighway.walls.sh/guides/media-research-agent
