@@ -65,9 +65,11 @@ A curated list of software, services, and resources to create videos.
 
 ## Camera / On-Set Tools
 
+- [Copsy] - Free macOS app to offload and back up camera footage: copies SD/CFexpress cards to a drive and the cloud (Google Drive/Dropbox) in parallel and verifies every file with ASC-MHL checksums.
 - [FrameCoach] - Real-time camera coaching app for filmmakers — coaches you through camera settings, composition, and shot choices on set.
 - [MacroGraph] - Visual programming tool to automate streaming workflows (Twitch, OBS, MIDI).
 
+[Copsy]: https://copsy.app
 [FrameCoach]: https://framecoach.io
 [MacroGraph]: https://github.com/Brendonovich/MacroGraph
 
