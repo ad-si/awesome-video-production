@@ -67,10 +67,12 @@ A curated list of software, services, and resources to create videos.
 
 - [Copsy] - Free macOS app to offload and back up camera footage: copies SD/CFexpress cards to a drive and the cloud (Google Drive/Dropbox) in parallel and verifies every file with ASC-MHL checksums.
 - [FrameCoach] - Real-time camera coaching app for filmmakers — coaches you through camera settings, composition, and shot choices on set.
+- [Kivo] - Lightweight desktop teleprompter built with PySide6: frameless, always-on-top overlay with adjustable auto-scrolling.
 - [MacroGraph] - Visual programming tool to automate streaming workflows (Twitch, OBS, MIDI).
 
 [Copsy]: https://copsy.app
 [FrameCoach]: https://framecoach.io
+[Kivo]: https://github.com/rajtilakjee/kivo
 [MacroGraph]: https://github.com/Brendonovich/MacroGraph
 
 
