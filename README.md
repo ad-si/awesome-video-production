@@ -223,6 +223,7 @@ Game engines can be used as well:
 - [Recut] - Desktop app to automatically remove silence.
 - [Remotion] - Video editing in React.
 - [ShotGPT] - AI framework for automated short/video content creation.
+- [Velorn] - AI-native desktop video editor integrating ComfyUI generation with a timeline.
 
 [Audapolis]: https://github.com/bugbakery/audapolis
 [Blender for Video Editing]: https://www.blender.org/features/video-editing/
@@ -236,6 +237,7 @@ Game engines can be used as well:
 [Recut]: https://getrecut.com/
 [Remotion]: https://www.remotion.dev
 [ShotGPT]: https://shortgpt.ai
+[Velorn]: https://velorn.ai
 
 
 ### CLI / Code
