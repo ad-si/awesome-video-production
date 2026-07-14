@@ -307,6 +307,7 @@ Game engines can be used as well:
 - [Vidtoon] - Online video animation software.
 - [Wave.video] - Easy-to-use platform to make and record videos.
 - [What the GIF] - Free video to GIF editor that runs entirely in the browser. Nothing uploads, no signup, no watermark.
+- [iLoveVideoEditor] - Motion design engine and API for automated video production: render videos from JSON with templates, effects, transitions, and batch rendering.
 
 [Animaker]: https://www.animaker.com
 [Animoto]: https://animoto.com
@@ -338,6 +339,7 @@ Game engines can be used as well:
 [Vidtoon]: https://vidtoon.com
 [Wave.video]: https://wave.video
 [What the GIF]: https://whatthegif.com
+[iLoveVideoEditor]: https://ilovevideoeditor.com
 
 
 ## YouTube Channels
