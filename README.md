@@ -69,11 +69,13 @@ A curated list of software, services, and resources to create videos.
 - [FrameCoach] - Real-time camera coaching app for filmmakers — coaches you through camera settings, composition, and shot choices on set.
 - [Kivo] - Lightweight desktop teleprompter built with PySide6: frameless, always-on-top overlay with adjustable auto-scrolling.
 - [MacroGraph] - Visual programming tool to automate streaming workflows (Twitch, OBS, MIDI).
+- [RunCue] - Browser timer and cue board for webinar and live-event crews, with separate operator and presenter views. Paid after a 15-minute demo.
 
 [Copsy]: https://copsy.app
 [FrameCoach]: https://framecoach.io
 [Kivo]: https://github.com/rajtilakjee/kivo
 [MacroGraph]: https://github.com/Brendonovich/MacroGraph
+[RunCue]: https://runcue.fly.dev/launch?utm_source=awesome_video_production&utm_medium=resource_list&utm_campaign=runcue_launch
 
 
 ## Image Editing
