@@ -215,11 +215,13 @@ Game engines can be used as well:
 - [Blender for Video Editing] - Blender's built-in video sequencer.
 - [Bons-AI] - Modular automation stack for faceless video creation.
 - [ClipJS] - Edit videos from your PC or phone.
+- [Donkey Cut] - Free, open-source, local-first browser video editor with multi-track timeline, captions, and an AI assistant.
 - [Flowblade] - Multitrack non-linear video editor for Linux.
 - [GoZen] - Minimalist Video Editor implemented in [Godot].
 - [KDENlive] - Open-source video editor.
 - [MediaEditor] - Lightweight, cross-platform, open-source non-linear editor.
 - [Olive] - Free open-source non-linear video editor.
+- [Palmier] - macOS video editor with AI media generation and agent capabilities built into a multi-track timeline.
 - [Recut] - Desktop app to automatically remove silence.
 - [Remotion] - Video editing in React.
 - [ShotGPT] - AI framework for automated short/video content creation.
@@ -229,11 +231,13 @@ Game engines can be used as well:
 [Blender for Video Editing]: https://www.blender.org/features/video-editing/
 [Bons-AI]: https://heissdominik.gumroad.com/l/bonsai-starter-edition
 [ClipJS]: https://clipjs.vercel.app/
+[Donkey Cut]: https://github.com/DonkeyUseCorp/Donkey
 [Flowblade]: https://github.com/jliljebl/flowblade
 [GoZen]: https://github.com/VoylinsGamedevJourney/GoZen
 [KDENlive]: https://kdenlive.org/en/
 [MediaEditor]: https://github.com/opencodewin/MediaEditor
 [Olive]: https://github.com/olive-editor/olive
+[Palmier]: https://www.palmier.io/
 [Recut]: https://getrecut.com/
 [Remotion]: https://www.remotion.dev
 [ShotGPT]: https://shortgpt.ai
@@ -256,6 +260,7 @@ Game engines can be used as well:
 - [Revideo] - Open source framework for programmatic video editing.
 - [RobustVideoMatting] - Robust video matting in PyTorch.
 - [VapourSynth] - App, plugin, and library for video manipulation.
+- [Video2X] - Machine-learning video upscaler and frame interpolator (Real-ESRGAN, Anime4K, RIFE).
 - [VidStab] - Video stabilization library.
 
 [Auto-Editor]: https://github.com/WyattBlue/auto-editor
@@ -272,6 +277,7 @@ Game engines can be used as well:
 [Revideo]: https://github.com/redotvideo/revideo
 [RobustVideoMatting]: https://github.com/PeterL1n/RobustVideoMatting
 [VapourSynth]: https://www.vapoursynth.com/
+[Video2X]: https://github.com/k4yt3x/video2x
 [VidStab]: https://github.com/georgmartius/vid.stab
 
 
@@ -282,6 +288,7 @@ Game engines can be used as well:
 - [Animoto] - Drag-and-drop video maker.
 - [Biteable] - Online video maker.
 - [Captions] - AI-powered creative studio.
+- [Decart] - Real-time AI video models: Lucy transforms live video, Oasis is an interactive world model.
 - [Descript] - Write, record, transcribe, edit, collaborate,
     and share videos & podcasts.
 - [Diffusion Studio] - AI powered Text-To-Video Editor.
@@ -312,6 +319,7 @@ Game engines can be used as well:
 [Animoto]: https://animoto.com
 [Biteable]: https://biteable.com
 [Captions]: https://www.captions.ai/
+[Decart]: https://decart.ai
 [Descript]: https://www.descript.com
 [Diffusion Studio]: https://diffusion.studio/
 [Eggnog]: https://www.eggnog.ai/
