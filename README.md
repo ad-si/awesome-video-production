@@ -314,7 +314,7 @@ Game engines can be used as well:
 - [Vidtoon] - Online video animation software.
 - [Wave.video] - Easy-to-use platform to make and record videos.
 - [What the GIF] - Free video to GIF editor that runs entirely in the browser. Nothing uploads, no signup, no watermark.
-- [YouPro] - Cloud video studio: AI upscaling to 4K, size-target compression, and a searchable scene pack library.
+- [YouPro] - Cloud video studio: download from Instagram, TikTok, and YouTube, convert between formats, compress to a target size, and color correct on mobile.
 
 [Animaker]: https://www.animaker.com
 [Animoto]: https://animoto.com
