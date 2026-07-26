@@ -75,7 +75,7 @@ A curated list of software, services, and resources to create videos.
 [FrameCoach]: https://framecoach.io
 [Kivo]: https://github.com/rajtilakjee/kivo
 [MacroGraph]: https://github.com/Brendonovich/MacroGraph
-[RunCue]: https://runcue.fly.dev/launch?utm_source=awesome_video_production&utm_medium=resource_list&utm_campaign=runcue_launch
+[RunCue]: https://runcue.fly.dev/launch
 
 
 ## Image Editing
