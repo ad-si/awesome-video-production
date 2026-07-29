@@ -286,6 +286,8 @@ Game engines can be used as well:
 - [Animaker] - Platform for beginners and non-designers
     to create animation & live-action videos.
 - [Animoto] - Drag-and-drop video maker.
+- [Argil] - Generate videos with custom AI avatars and cloned voices,
+    plus a director workflow from idea to finished film, series, or social video.
 - [Biteable] - Online video maker.
 - [Captions] - AI-powered creative studio.
 - [Decart] - Real-time AI video models: Lucy transforms live video, Oasis is an interactive world model.
@@ -317,6 +319,7 @@ Game engines can be used as well:
 
 [Animaker]: https://www.animaker.com
 [Animoto]: https://animoto.com
+[Argil]: https://www.argil.ai
 [Biteable]: https://biteable.com
 [Captions]: https://www.captions.ai/
 [Decart]: https://decart.ai
