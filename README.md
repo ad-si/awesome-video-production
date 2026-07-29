@@ -255,6 +255,7 @@ Game engines can be used as well:
 - [Jumpcutter] - Automatically edits videos.
 - [LosslessCut] - The swiss army knife of lossless video/audio editing
 - [MoviePy] - Python library for video editing.
+- [OrkasVideoStudio] - Local-first CLI and MCP toolkit that lets coding agents compose, edit, generate, and automatically assemble videos from editable plans.
 - [Podframes] - Open-source studio and CLI for generating two-host AI podcast videos.
 - [RemotionUI] - Production-ready motion for Remotion. Source you own.
 - [Revideo] - Open source framework for programmatic video editing.
@@ -272,6 +273,7 @@ Game engines can be used as well:
 [Jumpcutter]: https://github.com/carykh/jumpcutter
 [LosslessCut]: https://github.com/mifi/lossless-cut
 [MoviePy]: https://github.com/Zulko/moviepy
+[OrkasVideoStudio]: https://github.com/Orkas-AI/Orkas-VideoStudio
 [Podframes]: https://github.com/Jellypod-Inc/podframes
 [RemotionUI]: https://remotionui.com
 [Revideo]: https://github.com/redotvideo/revideo
