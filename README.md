@@ -69,11 +69,13 @@ A curated list of software, services, and resources to create videos.
 - [FrameCoach] - Real-time camera coaching app for filmmakers — coaches you through camera settings, composition, and shot choices on set.
 - [Kivo] - Lightweight desktop teleprompter built with PySide6: frameless, always-on-top overlay with adjustable auto-scrolling.
 - [MacroGraph] - Visual programming tool to automate streaming workflows (Twitch, OBS, MIDI).
+- [PostMicroTools] - Browser-based calculators for shoot and post planning: media storage per camera format, bitrate and file size, timecode and pulldown conversion, shot-name generation, a QR digital slate, and delivery-spec checks against EBU R128, ATSC A/85 and streaming platforms. Runs client-side.
 
 [Copsy]: https://copsy.app
 [FrameCoach]: https://framecoach.io
 [Kivo]: https://github.com/rajtilakjee/kivo
 [MacroGraph]: https://github.com/Brendonovich/MacroGraph
+[PostMicroTools]: https://www.postmicrotools.com
 
 
 ## Image Editing
