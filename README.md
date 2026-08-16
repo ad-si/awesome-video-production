@@ -313,6 +313,7 @@ Game engines can be used as well:
 - [Viddyoze] - Video templates marketplace.
 - [Videobolt] - Video templates marketplace.
 - [Videocreek] - Video intro maker.
+- [videos.social] - Turn blogs, PDFs, and prompts into editable faceless videos. Start free — 1 render included.
 - [Vidtoon] - Online video animation software.
 - [Wave.video] - Easy-to-use platform to make and record videos.
 - [What the GIF] - Free video to GIF editor that runs entirely in the browser. Nothing uploads, no signup, no watermark.
@@ -346,6 +347,7 @@ Game engines can be used as well:
 [Viddyoze]: https://viddyoze.com
 [Videobolt]: https://videobolt.net
 [Videocreek]: https://videocreek.com
+[videos.social]: https://videos.social/?utm_source=ad-si-awesome-video-production&utm_medium=directory&utm_campaign=listing-wave-d
 [Vidtoon]: https://vidtoon.com
 [Wave.video]: https://wave.video
 [What the GIF]: https://whatthegif.com
