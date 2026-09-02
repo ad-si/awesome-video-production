@@ -212,6 +212,7 @@ Game engines can be used as well:
 ### GUI
 
 - [Audapolis] - Editor for spoken-word audio with automatic transcription.
+- [BeatDesign] - Open-source, local-first AI media workbench with a Canvas, short-form timeline editor, shared Assets, and MCP control.
 - [Blender for Video Editing] - Blender's built-in video sequencer.
 - [Bons-AI] - Modular automation stack for faceless video creation.
 - [ClipJS] - Edit videos from your PC or phone.
@@ -228,6 +229,7 @@ Game engines can be used as well:
 - [Velorn] - AI-native desktop video editor integrating ComfyUI generation with a timeline.
 
 [Audapolis]: https://github.com/bugbakery/audapolis
+[BeatDesign]: https://github.com/BeatAPI/BeatDesign
 [Blender for Video Editing]: https://www.blender.org/features/video-editing/
 [Bons-AI]: https://heissdominik.gumroad.com/l/bonsai-starter-edition
 [ClipJS]: https://clipjs.vercel.app/
