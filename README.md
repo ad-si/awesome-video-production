@@ -158,6 +158,8 @@ A curated list of software, services, and resources to create videos.
 Game engines can be used as well:
 
 - [Bevy Image Export] - Bevy plugin for rendering image sequences
+- [bevy_tape] - Bevy plugin that captures the primary render texture
+    and encodes it to video with FFmpeg.
 - [Cocos] - Open-source, cross-platform game engine.
 - [Defold] - Supports recording the game frame-buffer to a file.
 - [Fyrox] - Save the contents of the texture after each `engine.render` call.
@@ -171,6 +173,7 @@ Game engines can be used as well:
 
 [Anima]: https://github.com/ceceppa/anima
 [Bevy Image Export]: https://github.com/paulkre/bevy_image_export
+[bevy_tape]: https://github.com/Vaaris16/bevy_tape
 [Cocos]: https://github.com/cocos/cocos-engine
 [Defold]: https://defold.com/ref/stable/sys/#start_record
 [Fyrox]: https://github.com/FyroxEngine/Fyrox/issues/312
