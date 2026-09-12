@@ -303,6 +303,8 @@ Game engines can be used as well:
 - [Eript] - Privacy-First Teleprompter for Creators.
 - [FirstCut Studio] - AI-powered highlight reel creator for action sports and travel footage.
 - [FastlyConvert] - Free online video converter and compressor.
+- [FLUX 3] - Multimodal foundation model by Black Forest Labs generating
+    up to 20 second clips with native audio from text, images, or keyframes.
 - [InVideo] - Create videos with text prompts.
 - [Lumen5] - Video creation platform.
 - [Moovly] - AI-powered video creation.
@@ -334,6 +336,7 @@ Game engines can be used as well:
 [Eript]: https://www.eript.com/
 [FirstCut Studio]: https://firstcutstudio.xyz
 [FastlyConvert]: https://www.fastlyconvert.com
+[FLUX 3]: https://bfl.ai/models/flux-3
 [InVideo]: https://invideo.io
 [Lumen5]: https://lumen5.com
 [Magisto]: https://www.magisto.com
