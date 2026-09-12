@@ -58,7 +58,7 @@ A curated list of software, services, and resources to create videos.
 - [Boords] - Storyboarding tool to plan creative projects.
 - [Gemini Storybook] - Create illustrated storybooks with AI.
 
-[Bloober]: https://blooper.ai
+[Blooper]: https://blooper.ai
 [Boords]: https://boords.com
 [Gemini Storybook]: https://blog.google/products/gemini/storybooks/
 
@@ -164,10 +164,10 @@ Game engines can be used as well:
 - [Defold] - Supports recording the game frame-buffer to a file.
 - [Fyrox] - Save the contents of the texture after each `engine.render` call.
 - [Godot] - Creating movies with Godot's offline renderer.
-  - [Phantom Camera]
-  - [Little Camera Preview]
   - [Anima]
+  - [Little Camera Preview]
   - [Movie Maker Timestamp]
+  - [Phantom Camera]
 - [LOVR] - Save the contents of the texture on each render call.
 - [WickedEngine] - Write C++ using FFmpeg to encode image to video file.
 
@@ -229,7 +229,7 @@ Game engines can be used as well:
 - [Palmier] - macOS video editor with AI media generation and agent capabilities built into a multi-track timeline.
 - [Recut] - Desktop app to automatically remove silence.
 - [Remotion] - Video editing in React.
-- [ShotGPT] - AI framework for automated short/video content creation.
+- [ShortGPT] - AI framework for automated short/video content creation.
 - [Velorn] - AI-native desktop video editor integrating ComfyUI generation with a timeline.
 
 [Audapolis]: https://github.com/bugbakery/audapolis
@@ -245,7 +245,7 @@ Game engines can be used as well:
 [Palmier]: https://www.palmier.io/
 [Recut]: https://getrecut.com/
 [Remotion]: https://www.remotion.dev
-[ShotGPT]: https://shortgpt.ai
+[ShortGPT]: https://shortgpt.ai
 [Velorn]: https://velorn.ai
 
 
@@ -301,8 +301,8 @@ Game engines can be used as well:
 - [Diffusion Studio] - AI powered Text-To-Video Editor.
 - [Eggnog] - Create AI videos with consistent characters
 - [Eript] - Privacy-First Teleprompter for Creators.
-- [FirstCut Studio] - AI-powered highlight reel creator for action sports and travel footage.
 - [FastlyConvert] - Free online video converter and compressor.
+- [FirstCut Studio] - AI-powered highlight reel creator for action sports and travel footage.
 - [FLUX 3] - Multimodal foundation model by Black Forest Labs generating
     up to 20 second clips with native audio from text, images, or keyframes.
 - [InVideo] - Create videos with text prompts.
@@ -334,18 +334,16 @@ Game engines can be used as well:
 [Diffusion Studio]: https://diffusion.studio/
 [Eggnog]: https://www.eggnog.ai/
 [Eript]: https://www.eript.com/
-[FirstCut Studio]: https://firstcutstudio.xyz
 [FastlyConvert]: https://www.fastlyconvert.com
+[FirstCut Studio]: https://firstcutstudio.xyz
 [FLUX 3]: https://bfl.ai/models/flux-3
 [InVideo]: https://invideo.io
 [Lumen5]: https://lumen5.com
-[Magisto]: https://www.magisto.com
 [Moovly]: https://www.moovly.com
 [OpenCut]: https://github.com/OpenCut-app/OpenCut
 [Pika]: https://pika.art/login
 [Renderforest]: https://www.renderforest.com
 [Rive]: https://rive.app/docs/editor/exporting/exporting-for-video-and-static-design
-[Shakr]: https://www.shakr.com
 [Shortbread]: https://shortbread.ai/
 [Skills.video]: https://skills.video/
 [Super Simple Teleprompter]: https://getrecut.com/teleprompter/
@@ -364,9 +362,9 @@ Game engines can be used as well:
 - [Reanimated Science] - Science videos created with [Reanimate].
 - [TheHiistoricAI] - AI-generated history videos (by [@RayVenturaHQ]).
 
+[@RayVenturaHQ]: https://twitter.com/RayVenturaHQ
 [Reanimated Science]: https://www.youtube.com/channel/UCbZujyI7i6JbI-I0shPvDgg
 [TheHiistoricAI]: https://www.youtube.com/@TheHiistoricAI
-[@RayVenturaHQ]: https://twitter.com/RayVenturaHQ
 
 
 ## Research
