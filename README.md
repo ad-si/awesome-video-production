@@ -66,11 +66,13 @@ A curated list of software, services, and resources to create videos.
 ## Camera / On-Set Tools
 
 - [Copsy] - Free macOS app to offload and back up camera footage: copies SD/CFexpress cards to a drive and the cloud (Google Drive/Dropbox) in parallel and verifies every file with ASC-MHL checksums.
+- [CutWire Prism] - Qt-based live visual mixer with a node graph for sources and effects, an A/B crossfader deck, Lua scripting, and NDI output.
 - [FrameCoach] - Real-time camera coaching app for filmmakers — coaches you through camera settings, composition, and shot choices on set.
 - [Kivo] - Lightweight desktop teleprompter built with PySide6: frameless, always-on-top overlay with adjustable auto-scrolling.
 - [MacroGraph] - Visual programming tool to automate streaming workflows (Twitch, OBS, MIDI).
 
 [Copsy]: https://copsy.app
+[CutWire Prism]: https://github.com/CutWire-Studios/Prism
 [FrameCoach]: https://framecoach.io
 [Kivo]: https://github.com/rajtilakjee/kivo
 [MacroGraph]: https://github.com/Brendonovich/MacroGraph
