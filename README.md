@@ -97,6 +97,7 @@ A curated list of software, services, and resources to create videos.
 - [CCapture.js] - Library to capture canvas-based animations at a fixed framerate.
 - [Clipnote Studio] - Basic animation software.
 - [CodeWorld] - Webapp for creating drawings and animations with code.
+- [CozyClay] - Browser-based 3D staging studio to block scenes, pose characters, and author camera moves.
 - [Excalidraw Claymate] - Create stop motion animations and slides based on Excalidraw.
 - [Expressive Animator] - SVG animation software.
 - [Flitter] - Functional programming language for describing 2D and 3D visuals.
@@ -131,6 +132,7 @@ A curated list of software, services, and resources to create videos.
 [CCapture.js]: https://github.com/spite/ccapture.js
 [Clipnote Studio]: https://calcium-chan.itch.io/clipnote
 [CodeWorld]: https://code.world/
+[CozyClay]: https://cozyclay.org
 [Excalidraw Claymate]: https://github.com/dai-shi/excalidraw-claymate
 [Expressive Animator]: https://expressive.app/expressive-animator/
 [Flitter]: https://flitter.readthedocs.io/en/latest/index.html
