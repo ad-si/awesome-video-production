@@ -47,8 +47,10 @@ A curated list of software, services, and resources to create videos.
 
 ### Apps
 
+- [ShotTessera] - Native macOS app that turns local videos into storyboards and contact sheets.
 - [Storyboarder] - Visualize a story as fast you can draw stick figures.
 
+[ShotTessera]: https://github.com/ixiehao/ShotTessera
 [Storyboarder]: https://github.com/wonderunit/storyboarder
 
 
