@@ -264,6 +264,7 @@ Game engines can be used as well:
 - [Graphics livecoding in Common Lisp]
 - [Jumpcutter] - Automatically edits videos.
 - [LosslessCut] - The swiss army knife of lossless video/audio editing
+- [Lucid] - Real-time AI video super-resolution for Apple silicon Macs (in-browser video, Chrome/Edge companion, local models).
 - [MoviePy] - Python library for video editing.
 - [Podframes] - Open-source studio and CLI for generating two-host AI podcast videos.
 - [RemotionUI] - Production-ready motion for Remotion. Source you own.
@@ -281,6 +282,7 @@ Game engines can be used as well:
 [Graphics livecoding in Common Lisp]: https://kevingal.com/blog/cl-livecoding.html
 [Jumpcutter]: https://github.com/carykh/jumpcutter
 [LosslessCut]: https://github.com/mifi/lossless-cut
+[Lucid]: https://github.com/braedonsaunders/lucid
 [MoviePy]: https://github.com/Zulko/moviepy
 [Podframes]: https://github.com/Jellypod-Inc/podframes
 [RemotionUI]: https://remotionui.com
