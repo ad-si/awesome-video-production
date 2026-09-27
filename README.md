@@ -254,6 +254,7 @@ Game engines can be used as well:
 ### CLI / Code
 
 - [Auto-Editor] - Automatically edit video & audio by analyzing the content.
+- [BrewReel] - Agent skill that turns a product brief into a vertical promo video, rendered with Remotion.
 - [Cut the Crap] - Automated video editing for streamers.
 - [Diffusion Studio Core] - Browser-based video compositing engine powered by WebCodecs.
 - [Editly] - Declarative command line video editing & API.
@@ -271,6 +272,7 @@ Game engines can be used as well:
 - [VidStab] - Video stabilization library.
 
 [Auto-Editor]: https://github.com/WyattBlue/auto-editor
+[BrewReel]: https://github.com/Finderchangchang/brewreel
 [Cut the Crap]: https://github.com/jappeace/cut-the-crap
 [Diffusion Studio Core]: https://github.com/diffusionstudio/core
 [Editly]: https://github.com/mifi/editly
