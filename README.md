@@ -121,6 +121,7 @@ A curated list of software, services, and resources to create videos.
 - [TalkingHead] - Real-time lip-sync for full-body 3D avatars in the browser.
 - [Theater.js] - Animation library for the web.
 - [TiXL] - Open-source software for visual effects and motion graphics for live performances and VJing.
+- [Velyst] - Interactive Typst content creator using Vello and Bevy.
 
 [Anime.js]: https://soshace.com/anime-js-to-mp4-and-gif-with-node-js-and-ffmpeg/
 [Animo]: https://animo.video/
@@ -156,6 +157,7 @@ A curated list of software, services, and resources to create videos.
 [TalkingHead]: https://github.com/met4citizen/TalkingHead
 [Theater.js]: https://www.theatrejs.com
 [TiXL]: https://tixl.app/
+[Velyst]: https://github.com/voxell-tech/velyst
 
 Game engines can be used as well:
 
