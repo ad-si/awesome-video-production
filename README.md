@@ -232,6 +232,7 @@ Game engines can be used as well:
 - [Recut] - Desktop app to automatically remove silence.
 - [Remotion] - Video editing in React.
 - [ShortGPT] - AI framework for automated short/video content creation.
+- [SoulCut] - A free non-linear audio and video editing system.
 - [Tooscut] - Source-available browser video editor with WebGPU rendering,
     multi-track timeline, and keyframe animation.
 - [Velorn] - AI-native desktop video editor integrating ComfyUI generation with a timeline.
@@ -250,6 +251,7 @@ Game engines can be used as well:
 [Recut]: https://getrecut.com/
 [Remotion]: https://www.remotion.dev
 [ShortGPT]: https://shortgpt.ai
+[SoulCut]: https://github.com/0xhappyboy/SoulCut
 [Tooscut]: https://tooscut.app
 [Velorn]: https://velorn.ai
 
