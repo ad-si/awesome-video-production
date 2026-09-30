@@ -327,6 +327,8 @@ Game engines can be used as well:
 - [Videocreek] - Video intro maker.
 - [Vidtoon] - Online video animation software.
 - [Wave.video] - Easy-to-use platform to make and record videos.
+  - [ReelWorkshop] - Browser-based compilation maker: import clips, arrange moments, preview the result, and export short-form MP4 videos.
+
 - [What the GIF] - Free video to GIF editor that runs entirely in the browser. Nothing uploads, no signup, no watermark.
 
 [Animaker]: https://www.animaker.com
@@ -359,6 +361,8 @@ Game engines can be used as well:
 [Videocreek]: https://videocreek.com
 [Vidtoon]: https://vidtoon.com
 [Wave.video]: https://wave.video
+[ReelWorkshop]: https://reelworkshop.com
+
 [What the GIF]: https://whatthegif.com
 
 
