@@ -273,6 +273,8 @@ Game engines can be used as well:
 - [RobustVideoMatting] - Robust video matting in PyTorch.
 - [VapourSynth] - App, plugin, and library for video manipulation.
 - [Video2X] - Machine-learning video upscaler and frame interpolator (Real-ESRGAN, Anime4K, RIFE).
+- [Videowright] - Create demo videos, explainers, and product walkthroughs
+    with AI narration from your coding agent.
 - [VidStab] - Video stabilization library.
 
 [Auto-Editor]: https://github.com/WyattBlue/auto-editor
@@ -290,6 +292,7 @@ Game engines can be used as well:
 [RobustVideoMatting]: https://github.com/PeterL1n/RobustVideoMatting
 [VapourSynth]: https://www.vapoursynth.com/
 [Video2X]: https://github.com/k4yt3x/video2x
+[Videowright]: https://github.com/scosman/videowright
 [VidStab]: https://github.com/georgmartius/vid.stab
 
 
@@ -319,6 +322,8 @@ Game engines can be used as well:
 - [Pika] - AI-powered video generation.
 - [Renderforest] - All design tools in one place.
 - [Rive] - Create animations for any platform. (Supports video export.)
+- [Scrimba Explain] - Turns any question into a narrated video lesson
+    with slides, code, diagrams, and animations.
 - [Shortbread] - Create comics with AI.
 - [Skills.video] - AI video and image generation platform with a video skills learning hub.
 - [Super Simple Teleprompter] - Web-based teleprompter to deliver your lines.
@@ -351,6 +356,7 @@ Game engines can be used as well:
 [Pika]: https://pika.art/login
 [Renderforest]: https://www.renderforest.com
 [Rive]: https://rive.app/docs/editor/exporting/exporting-for-video-and-static-design
+[Scrimba Explain]: https://docs.scrimba.com/explain/introduction
 [Shortbread]: https://shortbread.ai/
 [Skills.video]: https://skills.video/
 [Super Simple Teleprompter]: https://getrecut.com/teleprompter/
