@@ -316,6 +316,7 @@ Game engines can be used as well:
 - [OpenCut] - Open-source video editor for web, desktop, and mobile.
 - [Pika] - AI-powered video generation.
 - [Renderforest] - All design tools in one place.
+- [ReelWorkshop] - Browser compilation maker: import your own clips, arrange/trim, preview, export vertical 9:16 H.264 MP4 for TikTok/Reels/Shorts. Editing & preview free; finished export on Starter.
 - [Rive] - Create animations for any platform. (Supports video export.)
 - [Shortbread] - Create comics with AI.
 - [Skills.video] - AI video and image generation platform with a video skills learning hub.
@@ -348,6 +349,7 @@ Game engines can be used as well:
 [OpenCut]: https://github.com/OpenCut-app/OpenCut
 [Pika]: https://pika.art/login
 [Renderforest]: https://www.renderforest.com
+[ReelWorkshop]: https://reelworkshop.com
 [Rive]: https://rive.app/docs/editor/exporting/exporting-for-video-and-static-design
 [Shortbread]: https://shortbread.ai/
 [Skills.video]: https://skills.video/
