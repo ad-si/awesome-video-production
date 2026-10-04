@@ -305,6 +305,8 @@ Game engines can be used as well:
     plus a director workflow from idea to finished film, series, or social video.
 - [Biteable] - Online video maker.
 - [Captions] - AI-powered creative studio.
+- [Captions Generator] - AI captions and subtitles for any video,
+    styled and burned in or exported as SRT/VTT.
 - [Decart] - Real-time AI video models: Lucy transforms live video, Oasis is an interactive world model.
 - [Descript] - Write, record, transcribe, edit, collaborate,
     and share videos & podcasts.
@@ -341,6 +343,7 @@ Game engines can be used as well:
 [Argil]: https://www.argil.ai
 [Biteable]: https://biteable.com
 [Captions]: https://www.captions.ai/
+[Captions Generator]: https://captionsgenerator.app/
 [Decart]: https://decart.ai
 [Descript]: https://www.descript.com
 [Diffusion Studio]: https://diffusion.studio/
