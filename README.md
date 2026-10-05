@@ -237,6 +237,8 @@ Game engines can be used as well:
 - [Tooscut] - Source-available browser video editor with WebGPU rendering,
     multi-track timeline, and keyframe animation.
 - [Velorn] - AI-native desktop video editor integrating ComfyUI generation with a timeline.
+- [VidStudio] - Browser video editor with a multi-track timeline, trimming, compression,
+    subtitles, and Whisper auto-captions. Files stay on the device.
 
 [Audapolis]: https://github.com/bugbakery/audapolis
 [Blender for Video Editing]: https://www.blender.org/features/video-editing/
@@ -254,6 +256,7 @@ Game engines can be used as well:
 [ShortGPT]: https://shortgpt.ai
 [Tooscut]: https://tooscut.app
 [Velorn]: https://velorn.ai
+[VidStudio]: https://vidstudio.app
 
 
 ### CLI / Code
