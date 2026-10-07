@@ -385,6 +385,9 @@ Game engines can be used as well:
 
 ## Research
 
+- [Arcmira] - Find timestamped passages in indexed YouTube transcripts for clip research through an [API and MCP][Arcmira docs].
 - [FilmAgent] - Multi-agent framework for end-to-end film automation in virtual 3D spaces.
 
+[Arcmira]: https://arcmira.com
+[Arcmira docs]: https://arcmira.com/docs
 [FilmAgent]: https://filmagent.github.io/
