@@ -325,6 +325,7 @@ Game engines can be used as well:
 - [Pika] - AI-powered video generation.
 - [Renderforest] - All design tools in one place.
 - [Rive] - Create animations for any platform. (Supports video export.)
+- [ScaleReach] - Turns long videos into vertical 9:16 clips with AI captions and face-tracking crop.
 - [Scrimba Explain] - Turns any question into a narrated video lesson
     with slides, code, diagrams, and animations.
 - [Shortbread] - Create comics with AI.
@@ -359,6 +360,7 @@ Game engines can be used as well:
 [Pika]: https://pika.art/login
 [Renderforest]: https://www.renderforest.com
 [Rive]: https://rive.app/docs/editor/exporting/exporting-for-video-and-static-design
+[ScaleReach]: https://www.scalereach.ai
 [Scrimba Explain]: https://docs.scrimba.com/explain/introduction
 [Shortbread]: https://shortbread.ai/
 [Skills.video]: https://skills.video/
