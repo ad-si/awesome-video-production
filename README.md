@@ -383,6 +383,13 @@ Game engines can be used as well:
 [TheHiistoricAI]: https://www.youtube.com/@TheHiistoricAI
 
 
+## Tutorials & Learning Resources
+
+- [EditLogic CapCut tutorials](https://editlogic.io/) - Free hands-on CapCut guides: performance, exports and troubleshooting.
+- [How to clear CapCut cache safely](https://editlogic.io/how-to-clear-capcut-cache-safely-without-deleting-projects-the-ultimate-performance-guide/) - Clear cache/storage bloat without risking projects.
+- [Best export settings for CapCut PC](https://editlogic.io/best-export-settings-for-capcut-pc/) - Resolution, bitrate and codec settings for clean exports.
+
+
 ## Research
 
 - [FilmAgent] - Multi-agent framework for end-to-end film automation in virtual 3D spaces.
