@@ -328,6 +328,8 @@ Game engines can be used as well:
 - [Scrimba Explain] - Turns any question into a narrated video lesson
     with slides, code, diagrams, and animations.
 - [Shortbread] - Create comics with AI.
+- [Shortform Kit] - Free browser tools for short-form video: safe zone checker for Reels, TikTok and Shorts,
+    LUFS meter, timecode calculator with drop frame, and transcripts with SRT. No signup.
 - [Skills.video] - AI video and image generation platform with a video skills learning hub.
 - [Super Simple Teleprompter] - Web-based teleprompter to deliver your lines.
 - [Sync] - AI lip-sync and dubbing for videos.
@@ -361,6 +363,7 @@ Game engines can be used as well:
 [Rive]: https://rive.app/docs/editor/exporting/exporting-for-video-and-static-design
 [Scrimba Explain]: https://docs.scrimba.com/explain/introduction
 [Shortbread]: https://shortbread.ai/
+[Shortform Kit]: https://shortformkit.com
 [Skills.video]: https://skills.video/
 [Super Simple Teleprompter]: https://getrecut.com/teleprompter/
 [Sync]: https://sync.so/
