@@ -70,12 +70,14 @@ A curated list of software, services, and resources to create videos.
 - [FrameCoach] - Real-time camera coaching app for filmmakers — coaches you through camera settings, composition, and shot choices on set.
 - [Kivo] - Lightweight desktop teleprompter built with PySide6: frameless, always-on-top overlay with adjustable auto-scrolling.
 - [MacroGraph] - Visual programming tool to automate streaming workflows (Twitch, OBS, MIDI).
+- [mmMover] - Free Windows and macOS app for DITs to offload camera cards to several drives at once, verify every file from disk (xxHash64) and write ASC MHL, PDF reports and proxies with camera LUTs.
 
 [Copsy]: https://copsy.app
 [CutWire Prism]: https://github.com/CutWire-Studios/Prism
 [FrameCoach]: https://framecoach.io
 [Kivo]: https://github.com/rajtilakjee/kivo
 [MacroGraph]: https://github.com/Brendonovich/MacroGraph
+[mmMover]: https://mmmover.video
 
 
 ## Image Editing
