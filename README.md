@@ -333,6 +333,7 @@ Game engines can be used as well:
 - [Sync] - AI lip-sync and dubbing for videos.
 - [Veed] - Full featured video editor.
 - [Viddyoze] - Video templates marketplace.
+- [video2mp4] - Free browser-based tool to rewrap footage with MP4-compatible streams without uploading or re-encoding it.
 - [Videobolt] - Video templates marketplace.
 - [Videocreek] - Video intro maker.
 - [Vidtoon] - Online video animation software.
@@ -366,6 +367,7 @@ Game engines can be used as well:
 [Sync]: https://sync.so/
 [Veed]: https://www.veed.io
 [Viddyoze]: https://viddyoze.com
+[video2mp4]: https://video2mp4.com/convert-video-to-mp4/
 [Videobolt]: https://videobolt.net
 [Videocreek]: https://videocreek.com
 [Vidtoon]: https://vidtoon.com
