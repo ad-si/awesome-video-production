@@ -323,6 +323,7 @@ Game engines can be used as well:
 - [Moovly] - AI-powered video creation.
 - [OpenCut] - Open-source video editor for web, desktop, and mobile.
 - [Pika] - AI-powered video generation.
+- [Pixeltools] - Free, browser-based video converter, compressor, trimmer, and cropper. Runs entirely client-side via FFmpeg.wasm, no uploads, no signup.
 - [Renderforest] - All design tools in one place.
 - [Rive] - Create animations for any platform. (Supports video export.)
 - [Scrimba Explain] - Turns any question into a narrated video lesson
@@ -357,6 +358,7 @@ Game engines can be used as well:
 [Moovly]: https://www.moovly.com
 [OpenCut]: https://github.com/OpenCut-app/OpenCut
 [Pika]: https://pika.art/login
+[Pixeltools]: https://pixeltools.io/convert-video
 [Renderforest]: https://www.renderforest.com
 [Rive]: https://rive.app/docs/editor/exporting/exporting-for-video-and-static-design
 [Scrimba Explain]: https://docs.scrimba.com/explain/introduction
