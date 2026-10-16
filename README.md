@@ -324,6 +324,7 @@ Game engines can be used as well:
 - [OpenCut] - Open-source video editor for web, desktop, and mobile.
 - [Pika] - AI-powered video generation.
 - [Renderforest] - All design tools in one place.
+- [ReelsCut] - Turn raw vertical talking-head footage into a finished short.
 - [Rive] - Create animations for any platform. (Supports video export.)
 - [Scrimba Explain] - Turns any question into a narrated video lesson
     with slides, code, diagrams, and animations.
@@ -358,6 +359,7 @@ Game engines can be used as well:
 [OpenCut]: https://github.com/OpenCut-app/OpenCut
 [Pika]: https://pika.art/login
 [Renderforest]: https://www.renderforest.com
+[ReelsCut]: https://reelscut.ai/
 [Rive]: https://rive.app/docs/editor/exporting/exporting-for-video-and-static-design
 [Scrimba Explain]: https://docs.scrimba.com/explain/introduction
 [Shortbread]: https://shortbread.ai/
