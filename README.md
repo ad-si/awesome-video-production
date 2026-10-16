@@ -275,6 +275,7 @@ Game engines can be used as well:
 - [Revideo] - Open source framework for programmatic video editing.
 - [RobustVideoMatting] - Robust video matting in PyTorch.
 - [VapourSynth] - App, plugin, and library for video manipulation.
+- [vawe] - Render a single HTML page to MP4 frame by frame in headless Chrome. Ships agent skills.
 - [Video2X] - Machine-learning video upscaler and frame interpolator (Real-ESRGAN, Anime4K, RIFE).
 - [Videowright] - Create demo videos, explainers, and product walkthroughs
     with AI narration from your coding agent.
@@ -294,6 +295,7 @@ Game engines can be used as well:
 [Revideo]: https://github.com/redotvideo/revideo
 [RobustVideoMatting]: https://github.com/PeterL1n/RobustVideoMatting
 [VapourSynth]: https://www.vapoursynth.com/
+[vawe]: https://github.com/Vandit1604/vawe
 [Video2X]: https://github.com/k4yt3x/video2x
 [Videowright]: https://github.com/scosman/videowright
 [VidStab]: https://github.com/georgmartius/vid.stab
