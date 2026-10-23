@@ -335,6 +335,8 @@ Game engines can be used as well:
 - [Viddyoze] - Video templates marketplace.
 - [Videobolt] - Video templates marketplace.
 - [Videocreek] - Video intro maker.
+- [Vidova] - AI video editor that edits your own footage from a prompt
+    on a real timeline, with FCPXML and OTIO export.
 - [Vidtoon] - Online video animation software.
 - [Wave.video] - Easy-to-use platform to make and record videos.
 - [What the GIF] - Free video to GIF editor that runs entirely in the browser. Nothing uploads, no signup, no watermark.
@@ -368,6 +370,7 @@ Game engines can be used as well:
 [Viddyoze]: https://viddyoze.com
 [Videobolt]: https://videobolt.net
 [Videocreek]: https://videocreek.com
+[Vidova]: https://vidova.ai
 [Vidtoon]: https://vidtoon.com
 [Wave.video]: https://wave.video
 [What the GIF]: https://whatthegif.com
