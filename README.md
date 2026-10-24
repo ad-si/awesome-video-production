@@ -84,6 +84,8 @@ A curated list of software, services, and resources to create videos.
 
 [rembg]: https://github.com/danielgatis/rembg
 
+- [Free Ai Thumbnail Background Remover](https://freethumbnailpreview.com/tools/ai-thumbnail-background-remover)) - Cut out faces and portraits with AI neural edge detection. Add white sticker outlines and export transparent PNGs locally in your browser for free. ([Source Code](https://github.com/chandgg529-collab/freethumbnailpreview))
+
 
 ## Animations
 
