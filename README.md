@@ -47,11 +47,11 @@ A curated list of software, services, and resources to create videos.
 
 ### Apps
 
-- [Storyboarder] - Visualize a story as fast you can draw stick figures.
 - [3D-Agent] - Desktop AI agent that blocks out shots in Blender (set, stand-in cast, real lens and camera move) to use as a 3D animatic that drives AI video generation. (commercial)
+- [Storyboarder] - Visualize a story as fast you can draw stick figures.
 
-[Storyboarder]: https://github.com/wonderunit/storyboarder
 [3D-Agent]: https://3d-agent.com/blender-ai/animation
+[Storyboarder]: https://github.com/wonderunit/storyboarder
 
 
 ### SaaS
