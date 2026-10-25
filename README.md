@@ -80,8 +80,10 @@ A curated list of software, services, and resources to create videos.
 
 ## Image Editing
 
+- [PickVideoFrame] - Capture PNG or JPG stills from local video files in the browser without an account or video upload.
 - [rembg] - Tool to remove image background.
 
+[PickVideoFrame]: https://pickvideoframe.com/video-screenshot/
 [rembg]: https://github.com/danielgatis/rembg
 
 
