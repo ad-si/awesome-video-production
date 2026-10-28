@@ -309,6 +309,8 @@ Game engines can be used as well:
 - [Argil] - Generate videos with custom AI avatars and cloned voices,
     plus a director workflow from idea to finished film, series, or social video.
 - [Biteable] - Online video maker.
+- [Burncaps] - Browser tool that finds a long talk's best clips, ranked,
+    and burns word-by-word captions into video. The video is never uploaded.
 - [Captions] - AI-powered creative studio.
 - [Decart] - Real-time AI video models: Lucy transforms live video, Oasis is an interactive world model.
 - [Descript] - Write, record, transcribe, edit, collaborate,
@@ -345,6 +347,7 @@ Game engines can be used as well:
 [Animoto]: https://animoto.com
 [Argil]: https://www.argil.ai
 [Biteable]: https://biteable.com
+[Burncaps]: https://burncaps.app/
 [Captions]: https://www.captions.ai/
 [Decart]: https://decart.ai
 [Descript]: https://www.descript.com
