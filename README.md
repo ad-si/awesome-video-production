@@ -229,6 +229,7 @@ Game engines can be used as well:
 - [Donkey Cut] - Free, open-source, local-first browser video editor with multi-track timeline, captions, and an AI assistant.
 - [Flowblade] - Multitrack non-linear video editor for Linux.
 - [GoZen] - Minimalist Video Editor implemented in [Godot].
+- [Karaoke Captions] - Browser-based word-by-word captions with local speech recognition, transcript editing, and MP4/SRT/VTT export.
 - [KDENlive] - Open-source video editor.
 - [MediaEditor] - Lightweight, cross-platform, open-source non-linear editor.
 - [Olive] - Free open-source non-linear video editor.
@@ -249,6 +250,7 @@ Game engines can be used as well:
 [Donkey Cut]: https://github.com/DonkeyUseCorp/Donkey
 [Flowblade]: https://github.com/jliljebl/flowblade
 [GoZen]: https://github.com/VoylinsGamedevJourney/GoZen
+[Karaoke Captions]: https://karaokecaptions.com/
 [KDENlive]: https://kdenlive.org/en/
 [MediaEditor]: https://github.com/opencodewin/MediaEditor
 [Olive]: https://github.com/olive-editor/olive
