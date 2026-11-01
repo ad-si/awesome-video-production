@@ -335,6 +335,8 @@ Game engines can be used as well:
 - [Sync] - AI lip-sync and dubbing for videos.
 - [Veed] - Full featured video editor.
 - [Viddyoze] - Video templates marketplace.
+- [Video Size Reducer] - Compress a video to a target file size online.
+    Freemium, no signup needed to try, no watermark.
 - [Videobolt] - Video templates marketplace.
 - [Videocreek] - Video intro maker.
 - [Vidtoon] - Online video animation software.
@@ -368,6 +370,7 @@ Game engines can be used as well:
 [Sync]: https://sync.so/
 [Veed]: https://www.veed.io
 [Viddyoze]: https://viddyoze.com
+[Video Size Reducer]: https://video-size-reducer.com
 [Videobolt]: https://videobolt.net
 [Videocreek]: https://videocreek.com
 [Vidtoon]: https://vidtoon.com
