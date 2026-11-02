@@ -99,6 +99,7 @@ A curated list of software, services, and resources to create videos.
 - [CCapture.js] - Library to capture canvas-based animations at a fixed framerate.
 - [Clipnote Studio] - Basic animation software.
 - [CodeWorld] - Webapp for creating drawings and animations with code.
+- [DESIGN:OS SVG Animation] - Free, source-available agent skill and CLI that renders SVG motion on a frame-exact virtual clock to 1080p 60 fps video.
 - [Excalidraw Claymate] - Create stop motion animations and slides based on Excalidraw.
 - [Expressive Animator] - SVG animation software.
 - [Flitter] - Functional programming language for describing 2D and 3D visuals.
@@ -135,6 +136,7 @@ A curated list of software, services, and resources to create videos.
 [CCapture.js]: https://github.com/spite/ccapture.js
 [Clipnote Studio]: https://calcium-chan.itch.io/clipnote
 [CodeWorld]: https://code.world/
+[DESIGN:OS SVG Animation]: https://github.com/jangtrinh/design-os-svg-animation
 [Excalidraw Claymate]: https://github.com/dai-shi/excalidraw-claymate
 [Expressive Animator]: https://expressive.app/expressive-animator/
 [Flitter]: https://flitter.readthedocs.io/en/latest/index.html
