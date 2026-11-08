@@ -320,6 +320,8 @@ Game engines can be used as well:
 - [FirstCut Studio] - AI-powered highlight reel creator for action sports and travel footage.
 - [FLUX 3] - Multimodal foundation model by Black Forest Labs generating
     up to 20 second clips with native audio from text, images, or keyframes.
+- [Imagera] - AI video and image studio with characters that stay consistent across shots
+    and an AI Director for multi-shot videos (commercial).
 - [InVideo] - Create videos with text prompts.
 - [Lumen5] - Video creation platform.
 - [Moovly] - AI-powered video creation.
@@ -354,6 +356,7 @@ Game engines can be used as well:
 [FastlyConvert]: https://www.fastlyconvert.com
 [FirstCut Studio]: https://firstcutstudio.xyz
 [FLUX 3]: https://bfl.ai/models/flux-3
+[Imagera]: https://imagera.ai
 [InVideo]: https://invideo.io
 [Lumen5]: https://lumen5.com
 [Moovly]: https://www.moovly.com
