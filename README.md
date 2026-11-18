@@ -333,6 +333,7 @@ Game engines can be used as well:
 - [Skills.video] - AI video and image generation platform with a video skills learning hub.
 - [Super Simple Teleprompter] - Web-based teleprompter to deliver your lines.
 - [Sync] - AI lip-sync and dubbing for videos.
+- [Twistavo] - AI video studio to replace a person or character in an existing clip (Scene Recast) and run video and image models; monthly plans from $3.99.
 - [Veed] - Full featured video editor.
 - [Viddyoze] - Video templates marketplace.
 - [Videobolt] - Video templates marketplace.
@@ -366,6 +367,7 @@ Game engines can be used as well:
 [Skills.video]: https://skills.video/
 [Super Simple Teleprompter]: https://getrecut.com/teleprompter/
 [Sync]: https://sync.so/
+[Twistavo]: https://twistavo.com
 [Veed]: https://www.veed.io
 [Viddyoze]: https://viddyoze.com
 [Videobolt]: https://videobolt.net
