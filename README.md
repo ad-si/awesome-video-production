@@ -226,6 +226,7 @@ Game engines can be used as well:
 - [Blender for Video Editing] - Blender's built-in video sequencer.
 - [Bons-AI] - Modular automation stack for faceless video creation.
 - [ClipJS] - Edit videos from your PC or phone.
+- [CutVoke] - Open-source, local-first desktop video editor with a built-in MCP server, so AI agents and people edit the same multi-track timeline.
 - [Donkey Cut] - Free, open-source, local-first browser video editor with multi-track timeline, captions, and an AI assistant.
 - [Flowblade] - Multitrack non-linear video editor for Linux.
 - [GoZen] - Minimalist Video Editor implemented in [Godot].
@@ -246,6 +247,7 @@ Game engines can be used as well:
 [Blender for Video Editing]: https://www.blender.org/features/video-editing/
 [Bons-AI]: https://heissdominik.gumroad.com/l/bonsai-starter-edition
 [ClipJS]: https://clipjs.vercel.app/
+[CutVoke]: https://github.com/frankShan001/CutVoke
 [Donkey Cut]: https://github.com/DonkeyUseCorp/Donkey
 [Flowblade]: https://github.com/jliljebl/flowblade
 [GoZen]: https://github.com/VoylinsGamedevJourney/GoZen
