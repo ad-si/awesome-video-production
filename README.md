@@ -269,7 +269,7 @@ Game engines can be used as well:
 - [Editly] - Declarative command line video editing & API.
 - [Etro] - Typescript video-editing framework for the browser.
 - [Graphics livecoding in Common Lisp]
-- [HyperFrames] - Open-source AI video editor and Remotion alternative: coding agents write videos as HTML, CSS and JavaScript animations and render them to MP4.
+- [HyperFrames] - Render HTML, CSS and JavaScript animations to MP4, with skills for AI coding agents.
 - [Jumpcutter] - Automatically edits videos.
 - [LosslessCut] - The swiss army knife of lossless video/audio editing
 - [MoviePy] - Python library for video editing.
